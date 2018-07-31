@@ -1,0 +1,19 @@
+{
+  "name": "mp3-scrape",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "description": "",
+  "dependencies": {
+    "async": "^2.6.1",
+    "chalk": "^2.4.1",
+    "cheerio": "^1.0.0-rc.2",
+    "node-fetch": "^2.2.0",
+    "puppeteer": "^1.6.0",
+    "request": "^2.87.0"
+  }
+}
